@@ -7,7 +7,7 @@ Awesome On-Chain NFT Projects, Boilerplates & Tutorials.
 * Anchor Certificates ( [OpenSea](https://opensea.io/collection/anchor-certificates), [Etherscan](https://etherscan.io/address/0x600a4446094c341693c415e6743567b9bfc8a4a8) )
 * Animal Coloring Book ( [OpenSea](https://opensea.io/collection/animal-coloring-book), [Etherscan](https://etherscan.io/address/0x69c40e500b84660cb2ab09cb9614fa2387f95f64) )
 * Anonymice ( [OpenSea](https://opensea.io/collection/anonymice), [Etherscan](https://etherscan.io/address/0xbad6186e92002e312078b5a1dafd5ddf63d3f731) )
-* AnonymiceBreeding ( [OpenSea](https://opensea.io/collection/anonymicebreeding), [Etherscan](https://etherscan.io/address/0x15cc16bfe6fac624247490aa29b6d632be549f00) ) _* Has Breeding Utility_
+* AnonymiceBreeding ( [OpenSea](https://opensea.io/collection/anonymicebreeding), [Etherscan](https://etherscan.io/address/0x15cc16bfe6fac624247490aa29b6d632be549f00) ) _* Has breeding utility_
 * Blitmap ( [OpenSea](https://opensea.io/collection/blitmap), [Etherscan](https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63) )
 * cMyKatz ( [OpenSea](https://opensea.io/collection/cmykatz-nfts), [Etherscan](https://etherscan.io/address/0x1f2403da6a03f989d3588f61c9a6c6dbf94061b7) )
 * TheCreepz ( [OpenSea]() , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
@@ -22,8 +22,8 @@ Awesome On-Chain NFT Projects, Boilerplates & Tutorials.
 * Squiggly ( [OpenSea](https://opensea.io/collection/squiggly), [Etherscan](https://etherscan.io/address/0x36f379400de6c6bcdf4408b282f8b685c56adc60) )
 * TinyBoxes ( [OpenSea](https://opensea.io/collection/tinyboxes), [Etherscan](https://etherscan.io/address/0x46f9a4522666d2476a5f5cd51ea3e0b5800e7f98) )
 * Uniswap V3 Positions ( [OpenSea](https://opensea.io/collection/uniswap-v3-positions), [Etherscan](https://etherscan.io/address/0xc36442b4a4522e871399cd717abdd847ab11fe88) )
-* Wolf Game ( [OpenSea](https://opensea.io/collection/wolf-game-migrated), [Etherscan](https://etherscan.io/address/0x7f36182dee28c45de6072a34d29855bae76dbe2f) ) _* Has game logic_
-* Wizards & Dragons Game ( [OpenSea](https://opensea.io/collection/wizards-dragons-game-v2), [Etherscan](https://etherscan.io/address/0x999e88075692bcee3dbc07e7e64cd32f39a1d3ab) ) _* Has game logic_
+* Wolf Game ( [OpenSea](https://opensea.io/collection/wolf-game-migrated), [Etherscan](https://etherscan.io/address/0x7f36182dee28c45de6072a34d29855bae76dbe2f), [Whitepaper](https://www.wolf.game/whitepaper-v2) ) _* Has game logic_
+* Wizards & Dragons Game ( [OpenSea](https://opensea.io/collection/wizards-dragons-game-v2), [Etherscan](https://etherscan.io/address/0x999e88075692bcee3dbc07e7e64cd32f39a1d3ab) , [Whitepaper](https://medium.com/@wndgame/wizards-dragons-guard-the-tower-in-a-100-on-chain-strategy-game-a29597f5bfc9) ) _* Has game logic_
 
 ## Tutorials
 
