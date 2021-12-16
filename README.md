@@ -20,6 +20,7 @@
 * Blitmap ( [OpenSea](https://opensea.io/collection/blitmap), [Etherscan](https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63) )
 * cMyKatz ( [OpenSea](https://opensea.io/collection/cmykatz-nfts), [Etherscan](https://etherscan.io/address/0x1f2403da6a03f989d3588f61c9a6c6dbf94061b7) )
 * TheCreepz ( [OpenSea]() , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
+* ChainRunners ( [OpenSea](https://opensea.io/collection/chain-runners-nft), [Etherscan](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587) )
 * Corruption(s*) ( [OpenSea](https://opensea.io/collection/corruption-s), [Etherscan](https://etherscan.io/address/0x5bdf397bb2912859dbd8011f320a222f79a28d2e) )
 * Forgotten Runes ( [OpenSea](https://opensea.io/collection/forgottenruneswizardscult), [Etherscan](https://etherscan.io/address/0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42) )
 * Genesis.sol - solSeedlings ( [OpenSea](https://opensea.io/collection/genesis-sol-solseedlings), [Etherscan](https://etherscan.io/address/0x5d4683ba64ee6283bb7fdb8a91252f6aab32a110) )
