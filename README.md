@@ -40,6 +40,10 @@
 
 * Flavours of On-Chain SVG NFTs on Ethereum by Simon de la Rouviere ( [URL](https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum) )
 
+## Libraries
+
+* Brechtpd/base64 ( [Repository](https://github.com/Brechtpd/base64) )
+
 ## Disclaimer
 
 OpenSea Vanity URLs may change from time to time.
