@@ -1,5 +1,14 @@
-# Awesome On-Chain NFTs
-Awesome On-Chain NFT Projects, Boilerplates & Tutorials.
+<div align="center">
+  <h1 align="center">Awesome On-Chain NFTs</h1>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+  </p>
+  
+  <p align="center">Awesome On-Chain NFT Projects, Boilerplates & Tutorials.</p>
+  
+</div>
 
 ## On-Chain NFT Projects
 
@@ -11,6 +20,8 @@ Awesome On-Chain NFT Projects, Boilerplates & Tutorials.
 * Blitmap ( [OpenSea](https://opensea.io/collection/blitmap), [Etherscan](https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63) )
 * cMyKatz ( [OpenSea](https://opensea.io/collection/cmykatz-nfts), [Etherscan](https://etherscan.io/address/0x1f2403da6a03f989d3588f61c9a6c6dbf94061b7) )
 * TheCreepz ( [OpenSea]() , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
+* Corruption(s*) ( [OpenSea](https://opensea.io/collection/corruption-s), [Etherscan](https://etherscan.io/address/0x5bdf397bb2912859dbd8011f320a222f79a28d2e) )
+* Forgotten Runes ( [OpenSea](https://opensea.io/collection/forgottenruneswizardscult), [Etherscan](https://etherscan.io/address/0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42) )
 * Genesis.sol - solSeedlings ( [OpenSea](https://opensea.io/collection/genesis-sol-solseedlings), [Etherscan](https://etherscan.io/address/0x5d4683ba64ee6283bb7fdb8a91252f6aab32a110) )
 * Loot ( [OpenSea](https://opensea.io/collection/lootproject), [Etherscan](https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7) )
 * Mandala Tokens ( [OpenSea](https://opensea.io/collection/mandala-tokens), [Etherscan](https://etherscan.io/address/0xdaca87395f3b1bbc46f3fa187e996e03a5dcc985) )
