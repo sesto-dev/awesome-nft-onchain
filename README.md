@@ -31,6 +31,7 @@
 * Nouns ( [OpenSea](https://opensea.io/collection/nouns), [Etherscan](https://etherscan.io/address/0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03) )
 * OnChain Seasides ( [OpenSea](https://opensea.io/collection/onchain-seasides), [Etherscan](https://etherscan.io/address/0xccb6e4a1c42f4892cde27a8bc2e50bba0b43d224) )
 * OnChainMonkey ( [OpenSea](https://opensea.io/collection/onchainmonkey), [Etherscan](https://etherscan.io/address/0x960b7a6bcd451c9968473f7bbfd9be826efd549a) )
+* Seed-Phrase ( [OpenSea](https://opensea.io/collection/seed-phrase-by-seanelliott), [Etherscan](https://etherscan.io/address/0x3eaf1e92e396c4fc67fffc0a181d8f1915914f10) )
 * Squiggly ( [OpenSea](https://opensea.io/collection/squiggly), [Etherscan](https://etherscan.io/address/0x36f379400de6c6bcdf4408b282f8b685c56adc60) )
 * TinyBoxes ( [OpenSea](https://opensea.io/collection/tinyboxes), [Etherscan](https://etherscan.io/address/0x46f9a4522666d2476a5f5cd51ea3e0b5800e7f98) )
 * Uniswap V3 Positions ( [OpenSea](https://opensea.io/collection/uniswap-v3-positions), [Etherscan](https://etherscan.io/address/0xc36442b4a4522e871399cd717abdd847ab11fe88) )
