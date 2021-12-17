@@ -44,6 +44,7 @@
 
 ## Libraries
 
+* abdk-consulting/abdk-libraries-solidity ( [Repository](https://github.com/abdk-consulting/abdk-libraries-solidity) )
 * Brechtpd/base64 ( [Repository](https://github.com/Brechtpd/base64) )
 
 ## Disclaimer
