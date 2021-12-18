@@ -26,7 +26,7 @@
 * Genesis.sol - solSeedlings ( [OpenSea](https://opensea.io/collection/genesis-sol-solseedlings), [Etherscan](https://etherscan.io/address/0x5d4683ba64ee6283bb7fdb8a91252f6aab32a110) )
 * Loot ( [OpenSea](https://opensea.io/collection/lootproject), [Etherscan](https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7) )
 * Mandala Tokens ( [OpenSea](https://opensea.io/collection/mandala-tokens), [Etherscan](https://etherscan.io/address/0xdaca87395f3b1bbc46f3fa187e996e03a5dcc985) )
-* Merge ( [OpenSea](https://opensea.io/collection/m), [Etherscan](https://etherscan.io/address/0xc3f8a0f5841abff777d3eefa5047e8d413a1c9ab) ) _* Has game logic_
+* Merge ( [OpenSea](https://opensea.io/collection/m), [Etherscan](https://etherscan.io/address/0xc3f8a0f5841abff777d3eefa5047e8d413a1c9ab), [Metedata Generator](https://etherscan.io/address/0x4e1e18aaccdf9acfd2e8847654a3871dfd234f02) ) _* Has game logic_
 * NeoLastics ( [OpenSea](https://opensea.io/collection/neolastics), [Etherscan](https://etherscan.io/address/0xb2d6fb1dc231f97f8cc89467b52f7c4f78484044) )
 * Nouns ( [OpenSea](https://opensea.io/collection/nouns), [Etherscan](https://etherscan.io/address/0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03) )
 * OnChain Seasides ( [OpenSea](https://opensea.io/collection/onchain-seasides), [Etherscan](https://etherscan.io/address/0xccb6e4a1c42f4892cde27a8bc2e50bba0b43d224) )
