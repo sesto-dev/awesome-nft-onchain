@@ -48,6 +48,19 @@
 * abdk-consulting/abdk-libraries-solidity ( [Repository](https://github.com/abdk-consulting/abdk-libraries-solidity) )
 * Brechtpd/base64 ( [Repository](https://github.com/Brechtpd/base64) )
 
+## Open-Source Example Repositories
+
+* massun-onibakuchi/on-chain-nft ( [Repository](https://github.com/massun-onibakuchi/on-chain-nft) )
+* maximebrugel/OniiChain ( [Repository](https://github.com/maximebrugel/OniiChain) )
+* mikker/svgnft ( [Repository](https://github.com/mikker/svgnft) )
+* cshue1/Globetrotters-NFT ( [Repository](https://github.com/cshue1/globetrotters-nft) )
+* PatrickAlphaC/all-on-chain-generated-nft ( [Repository](https://github.com/PatrickAlphaC/all-on-chain-generated-nft) )
+* jamiew/loot-fork ( [Repository](https://github.com/jamiew/loot-fork) )
+* sambacha/base64-svg ( [Repository](https://github.com/sambacha/base64-svg) )
+* stephancill/Portfolio-NFT ( [Repository](https://github.com/stephancill/portfolio-nft) )
+* ZakAyesh/Dungeons-and-Dragons-NFTs-Hardhat ( [Repository](https://github.com/ZakAyesh/dungeons-and-dragons-nfts-hardhat) )
+* ZakAyesh/DynamicNFT ( [Repository](https://github.com/ZakAyesh/DynamicNFT) )
+
 ## Disclaimer
 
 OpenSea Vanity URLs may change from time to time.
