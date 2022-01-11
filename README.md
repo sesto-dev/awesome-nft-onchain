@@ -28,6 +28,10 @@
 * Mandala Tokens ( [OpenSea](https://opensea.io/collection/mandala-tokens), [Etherscan](https://etherscan.io/address/0xdaca87395f3b1bbc46f3fa187e996e03a5dcc985) )
 * Merge ( [OpenSea](https://opensea.io/collection/m), [Etherscan](https://etherscan.io/address/0xc3f8a0f5841abff777d3eefa5047e8d413a1c9ab), [Metedata Generator](https://etherscan.io/address/0x4e1e18aaccdf9acfd2e8847654a3871dfd234f02) ) _* Has game logic_
 * NeoLastics ( [OpenSea](https://opensea.io/collection/neolastics), [Etherscan](https://etherscan.io/address/0xb2d6fb1dc231f97f8cc89467b52f7c4f78484044) )
+* Neo Tokyo Identities ( [OpenSea](https://opensea.io/collection/neo-tokyo-identities), [Etherscan](https://etherscan.io/address/0x86357a19e5537a8fba9a004e555713bc943a66c0) )
+* Neo Tokyo Part 2 Vault Cards ( [OpenSea](https://opensea.io/collection/neo-tokyo-part-2-vault-cards), [Etherscan](https://etherscan.io/address/0xab0b0dd7e4eab0f9e31a539074a03f1c1be80879) )
+* Neo Tokyo Part 3 Item Caches ( [OpenSea](https://opensea.io/collection/neo-tokyo-part-3-item-caches), [Etherscan](https://etherscan.io/address/0x0938e3f7ac6d7f674fed551c93f363109bda3af9) )
+* Neo Tokyo Outer Identities ( [OpenSea](https://opensea.io/collection/neotokyo-outer-identities), [Etherscan](https://etherscan.io/address/0x698fbaaca64944376e2cdc4cad86eaa91362cf54) )
 * Nouns ( [OpenSea](https://opensea.io/collection/nouns), [Etherscan](https://etherscan.io/address/0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03) )
 * OnChain Seasides ( [OpenSea](https://opensea.io/collection/onchain-seasides), [Etherscan](https://etherscan.io/address/0xccb6e4a1c42f4892cde27a8bc2e50bba0b43d224) )
 * OnChainMonkey ( [OpenSea](https://opensea.io/collection/onchainmonkey), [Etherscan](https://etherscan.io/address/0x960b7a6bcd451c9968473f7bbfd9be826efd549a) )
