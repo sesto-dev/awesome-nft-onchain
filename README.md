@@ -22,6 +22,7 @@
 * TheCreepz ( [OpenSea]() , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
 * ChainRunners ( [OpenSea](https://opensea.io/collection/chain-runners-nft), [Etherscan](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587), [Rendering Contract](https://etherscan.io/address/0xfdac77881ff861ff76a83cc43a1be3c317c6a1cc) )
 * Corruption(s*) ( [OpenSea](https://opensea.io/collection/corruption-s), [Etherscan](https://etherscan.io/address/0x5bdf397bb2912859dbd8011f320a222f79a28d2e) )
+* CyberBrokers ( [OpenSea](https://opensea.io/collection/cyberbrokers), [Etherscan](https://etherscan.io/address/0x892848074ddea461a15f337250da3ce55580ca85) )
 * EtherOrcs ( [OpenSea](https://opensea.io/collection/ether-orcs), [Etherscan](https://etherscan.io/address/0x3abedba3052845ce3f57818032bfa747cded3fca) ) _* Has game logic_
 * Forgotten Runes ( [OpenSea](https://opensea.io/collection/forgottenruneswizardscult), [Etherscan](https://etherscan.io/address/0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42) )
 * Genesis.sol - solSeedlings ( [OpenSea](https://opensea.io/collection/genesis-sol-solseedlings), [Etherscan](https://etherscan.io/address/0x5d4683ba64ee6283bb7fdb8a91252f6aab32a110) )
