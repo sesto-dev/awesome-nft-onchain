@@ -19,7 +19,7 @@
 * AnonymiceBreeding ( [OpenSea](https://opensea.io/collection/anonymicebreeding), [Etherscan](https://etherscan.io/address/0x15cc16bfe6fac624247490aa29b6d632be549f00) ) _* Has breeding utility_
 * Blitmap ( [OpenSea](https://opensea.io/collection/blitmap), [Etherscan](https://etherscan.io/address/0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63) )
 * cMyKatz ( [OpenSea](https://opensea.io/collection/cmykatz-nfts), [Etherscan](https://etherscan.io/address/0x1f2403da6a03f989d3588f61c9a6c6dbf94061b7) )
-* TheCreepz ( [OpenSea]() , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
+* TheCreepz ( [OpenSea](https://opensea.io/collection/thecreepz) , [EtherScan](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code) )
 * ChainRunners ( [OpenSea](https://opensea.io/collection/chain-runners-nft), [Etherscan](https://etherscan.io/address/0x97597002980134bea46250aa0510c9b90d87a587), [Rendering Contract](https://etherscan.io/address/0xfdac77881ff861ff76a83cc43a1be3c317c6a1cc) )
 * Corruption(s*) ( [OpenSea](https://opensea.io/collection/corruption-s), [Etherscan](https://etherscan.io/address/0x5bdf397bb2912859dbd8011f320a222f79a28d2e) )
 * CyberBrokers ( [OpenSea](https://opensea.io/collection/cyberbrokers), [Etherscan](https://etherscan.io/address/0x892848074ddea461a15f337250da3ce55580ca85) )
